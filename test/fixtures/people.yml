@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  interaction_id: 
+  interaction_type: Interaction
+
+two:
+  first_name: MyString
+  last_name: MyString
+  interaction_id: 
+  interaction_type: Interaction
